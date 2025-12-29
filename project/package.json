@@ -1,0 +1,14 @@
+{
+  "name": "resume-selecter-root",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "build": "sh -c 'if [ -d project/project ]; then cd project/project && npm run build; elif [ -d project ]; then cd project && npm run build; else echo \"No inner project directory found\" && exit 1; fi'"
+  },
+  "devDependencies": {
+    "tailwindcss-animate": "^1.0.7"
+  },
+  "dependencies": {
+    "exceljs": "^4.4.0"
+  }
+}
