@@ -1,9 +1,0 @@
-{
-    "imports": {
-        "@supabase/supabase-js": "npm:@supabase/supabase-js@^2.57.4",
-        "jszip": "npm:jszip@3.10.1",
-        "openai": "npm:openai@^4.52.5",
-        "pdf-parse": "npm:pdf-parse@1.1.1",
-        "@supabase/functions-js/edge-runtime.d.ts": "jsr:@supabase/functions-js/edge-runtime.d.ts"
-    }
-}

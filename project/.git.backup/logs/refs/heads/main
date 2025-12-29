@@ -1,4 +1,0 @@
-0000000000000000000000000000000000000000 922c581e9ed76ae453ec4d994a55e22611e36fe4 Your Name <you@example.com> 1766991488 +0530	commit (initial): first app
-922c581e9ed76ae453ec4d994a55e22611e36fe4 922c581e9ed76ae453ec4d994a55e22611e36fe4 Your Name <you@example.com> 1766991489 +0530	Branch: renamed refs/heads/main to refs/heads/main
-922c581e9ed76ae453ec4d994a55e22611e36fe4 d6abc6e1acc064402cc057de75b7cbcdbb06c3e8 Your Name <you@example.com> 1766992013 +0530	commit: Add root build script, vercel.json rewrite and .gitignore to deploy inner app
-d6abc6e1acc064402cc057de75b7cbcdbb06c3e8 4b72a796d50cd7e913db196dd225a04c6faab269 Your Name <you@example.com> 1766992281 +0530	commit: Make root build script resilient and remove fixed outputDirectory in vercel.json

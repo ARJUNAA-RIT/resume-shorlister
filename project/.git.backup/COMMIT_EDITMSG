@@ -1,1 +1,0 @@
-Make root build script resilient and remove fixed outputDirectory in vercel.json

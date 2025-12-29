@@ -1,1 +1,0 @@
-src/components/JobCard.tsx(15,40): error TS6133: 'onUpdate' is declared but its value is never read.
